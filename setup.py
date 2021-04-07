@@ -39,7 +39,7 @@ setup(
     name="httpx",
     python_requires=">=3.6",
     version=get_version("httpx"),
-    url="https://github.com/encode/httpx",
+    url="git@github.com:p1-alexandrevaney/httpx@feature/enforce_http2.git",
     project_urls={
         "Changelog": "https://github.com/encode/httpx/blob/master/CHANGELOG.md",
         "Documentation": "https://www.python-httpx.org",
